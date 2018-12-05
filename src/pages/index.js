@@ -17,7 +17,7 @@ class IndexPage extends React.Component{
 
     return (
 
-      <div className="w-100">
+      <div className="container-fluid">
         <div className="row bg-black px-5">
 
           {
@@ -29,7 +29,7 @@ class IndexPage extends React.Component{
 
                   <div className="col-md-4 card p-2 bg-transparent border-0 mb-5">
 
-                    <a href={website.url} target="blank" ><img src={'//image.thum.io/get/width/600/crop/600/' + website.url } className="mb-0" /></a>
+                    <a href={website.url} target="blank" ><img src={'//image.thum.io/get/width/600/crop/600/' + website.url } className="mb-0 img-fluid" /></a>
 
                     <div className="card-body pb-0 text-center">
 
