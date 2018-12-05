@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+body{
+  font-family: 'VT323', monospace;
+}
+
+body p{
+}
+.bg-black{
+  background-color: black;
+}
+.menu-div > div{
+  width: 70px;
+  height: 70px;
+  line-height: 70px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.hero-content{
+  height: 100vh;
+}
+.hero-content p{
+  color: #fff;
+}
+.hero-arrow{
+  position: absolute;
+  bottom: 20px;
+}
+.hero-arrow img{
+  width: 30px;
+}
+.hero-div{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.hero-div p{
+  font-size: 60px;
+}
+.hero-content h1{
+  color: #fff;
+  font-size: 80px;
+  font-weight: 700;
+  font-family: 'Abril Fatface', cursive;
+}
+#___gatsby > div{
+  height: 100vh;
+}
+#fullpage{
+  background-color: black;
+  height: 100vh;
+}
+.social-links a {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  position: relative;
+  margin: 0 10px;
+  text-align: center;
+  display: inline-block;
+  color: #fff;
+  -webkit-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  -moz-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  -o-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  -ms-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  transition: all .27s cubic-bezier(.3,.1,.58,1);
+}
+.social-links a {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  position: relative;
+  margin: 0 10px;
+  text-align: center;
+  display: inline-block;
+  color: #fff;
+  -webkit-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  -moz-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  -o-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  -ms-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  transition: all .27s cubic-bezier(.3,.1,.58,1);
+}
+.social-links a:before {
+  content: "";
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid #fff;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  -moz-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  -o-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  -ms-transition: all .27s cubic-bezier(.3,.1,.58,1);
+  transition: all .27s cubic-bezier(.3,.1,.58,1);
+}
