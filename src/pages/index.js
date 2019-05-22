@@ -48,14 +48,16 @@ class IndexPage extends React.Component{
           <div className="hero-div text-center text-white w-100">
             <h3>I AM</h3>
             <h3>Dancan Ngara</h3>
+            <h5>Full Stack Software Engineer</h5>
+            <h6>Ardent Programmer</h6>
             <p>"The best software developer you<br/> know out there got to where they are by<br/> solving problems they were unqualified for."</p>
           </div>
           <div className="hero-arrow text-center text-white w-100">
             <div className="col-md-12">
               <div className="social-links text-center">
-                <span className="social-links"><a href="#"><FaFacebookF /></a></span>
-                <span className="social-links"><a href="https://sourcerer.io/ngarawakimani"><FaGlobe /></a></span>
+                <span className="social-links"><a href="http://portfolio.ngara.co.ke"><FaGlobe /></a></span>
                 <span className="social-links"><a href="https://github.com/ngarawakimani" target="blank"><FaGithub /></a></span>
+                <span className="social-links"><a href="https://sourcerer.io/ngarawakimani"><FaGlobe /></a></span>
                 <span className="social-links"><a href="https://www.linkedin.com/in/dancan-kimani-3b83bb145/" target="blank"><FaLinkedinIn /></a></span>
 
               </div>

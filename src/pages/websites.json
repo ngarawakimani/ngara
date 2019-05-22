@@ -1,38 +1,38 @@
 [
   {
     "id": 1,
-    "url": "https://twendebnb.com",
-    "name": "Twende bnb"
-  },
-  {
-    "id": 2,
-    "url": "https://afraa.org",
-    "name": "African Airlines Websites"
-  },
-  {
-    "id": 3,
-    "url": "http://missbeeloft.co.ke",
-    "name": "Missbee Loft"
-  },
-  {
-    "id": 4,
-    "url": "https://ngmovies.netlify.com/",
-    "name": "NG Movies"
-  },
-  {
-    "id": 5,
-    "url": "https://teamcourage.co.ke/resources/",
-    "name": "Team Courage"
-  },
-  {
-    "id": 6,
     "url": "https://afraa.or.ke/",
     "name": "African Airlines Web App"
   },
   {
+    "id": 2,
+    "url": "http://db.maltainsurance.co.ke",
+    "name": "Malta Insurance Web App"
+  },
+  {
+    "id": 3,
+    "url": "http://computer-pride.com/",
+    "name": "Computer Pride Kenya"
+  },
+  {
+    "id": 4,
+    "url": "https://twendebnb.net",
+    "name": "Twende bnb"
+  },
+  {
+    "id": 5,
+    "url": "https://afraa.org",
+    "name": "African Airlines Websites"
+  },
+  {
+    "id": 6,
+    "url": "https://ngmovies.netlify.com/",
+    "name": "NG Movies"
+  },
+  {
     "id": 7,
-    "url": "http://sollatek.co.ke/",
-    "name": "Sollatek Kenya"
+    "url": "https://teamcourage.co.ke/resources/",
+    "name": "Team Courage"
   },
   {
     "id": 8,
@@ -71,7 +71,7 @@
   },
   {
     "id": 15,
-    "url": "https://zoujin-africa.com/",
-    "name": "Zoujin Africa"
+    "url": "https://qualibasicseed.com/",
+    "name": "Qualibasic Seed"
   }
 ]
